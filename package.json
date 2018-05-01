@@ -1,0 +1,34 @@
+{
+  "name": "use-npm-in-weapp",
+  "version": "1.0.0",
+  "description": "在微信小程序开发中使用 NPM 示例。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryC8080/use-npm-in-weapp.git"
+  },
+  "author": "JerryC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JerryC8080/use-npm-in-weapp/issues"
+  },
+  "homepage": "https://github.com/JerryC8080/use-npm-in-weapp#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "moment-mini": "^2.19.4",
+    "run-sequence": "^2.0.0",
+    "webpack": "^3.5.5",
+    "webpack-stream": "^4.0.0"
+  }
+}
